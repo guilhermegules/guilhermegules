@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**guilhermegules/guilhermegules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I'm Guilherme Gules Moreira</h2>
+<p>
+  <em>Front-end developer at <a href="https://ilegra.com/">ilegra</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em>
+</p>
 
-Here are some ideas to get you started:
+<div align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Let's Connect:</h4>
+
+<a href="https://www.linkedin.com/in/guilhermegules/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=orange" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/guilhermethegules/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=orange" alt="Instagram">
+</a>
+
+</div>
+
+<hr>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=guilhermegules&show_icons=true)
+
+<hr>
+
+**Languages and Tools:**
+
+<p align="left">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="50">
+  <img src="https://media3.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp?cid=ecf05e47f84d98ac2b5d0c0acd35e14700793dee07c1df99&rid=200.webp" width="50">
+  <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+</p>
+
+<p>
+Junior developer who always wants to learn something new, always looking to improve my coding skills, whenever possible share knowledge :nerd_face:
+</p>
+
+<p align="right">Thanks for reading</p>
+
