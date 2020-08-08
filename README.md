@@ -19,12 +19,6 @@
 
 </div>
 
-<hr>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=guilhermegules&show_icons=true)
-
-<hr>
-
 **Languages and Tools:**
 
 <p align="left">
