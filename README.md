@@ -1,6 +1,5 @@
-# Hi there 👋
+# Hi there I'm Guilherme Gules Moreira 👋
 
-<h2>I'm Guilherme Gules Moreira</h2>
 <p>
   <em>Front-end developer at <a href="https://ilegra.com/">ilegra</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
@@ -18,6 +17,14 @@
 </a>
 
 </div>
+
+<hr />
+
+#### About me:
+:heart: Games, programming, books, music and coffee
+<br />
+:earth_americas: I'm from Rio Grande do Sul, Brazil
+<br />
 
 **Languages and Tools:**
 
