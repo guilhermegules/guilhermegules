@@ -38,7 +38,7 @@
 </p>
 
 <p>
-Junior developer who always wants to learn something new, always looking to improve my coding skills, whenever possible share knowledge :nerd_face:
+Just a developer who always wants to learn something new, always looking to improve my coding skills, whenever possible share knowledge :nerd_face:
 </p>
 
 <p align="right">Thanks for reading</p>
