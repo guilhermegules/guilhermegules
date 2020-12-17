@@ -24,7 +24,7 @@
 :earth_americas: I'm from Rio Grande do Sul, Brazil
 <br />
 
-#### Interested 
+#### Interested:
 :red_circle: Server-side Rendering
 <br />
 :large_blue_circle: Static site generation
