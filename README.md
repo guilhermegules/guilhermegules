@@ -30,6 +30,8 @@
 :large_blue_circle: Static site generation
 <br />
 :metal: Next.js
+<br />
+:fish: Reactive and functional programming
 
 **Languages and Tools:**
 
