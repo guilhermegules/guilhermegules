@@ -18,6 +18,14 @@
 
 </div>
 
+<div>
+  
+  <h4>Stats:</h4>
+  
+  ![Guilherme Gules GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegules&show_icons=true&theme=dark)
+  
+</div>
+
 #### About me:
 :heart: Games, programming, books, music and coffee
 <br />
