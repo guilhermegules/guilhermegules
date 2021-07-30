@@ -22,8 +22,8 @@
   <h4>Stats:</h4>
   
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=guilhermegules&show_icons=true&theme=dark" alt="Guilherme Gules GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Langs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermegules&show_icons=true&theme=dark" alt="Guilherme Gules GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Langs" />
   </span>
 </div>
 
