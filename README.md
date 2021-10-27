@@ -26,7 +26,6 @@
 - Server-side Rendering
 - Static site generation
 - Next.js
-- Spring / Webflux
 - Reactive and functional programming
 - Algorithms
 - Data structures
