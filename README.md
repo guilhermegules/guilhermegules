@@ -75,11 +75,11 @@
 
 ### Writing
 
-<a href="" target="_blank">
+<a href="https://dev.to/guilhermegules" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-05122A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community">
 </a>
-  
-<a href="" target="_blank">
+&nbsp;
+<a href="https://medium.com/@guilhermegules" target="_blank">
   <img src="https://img.shields.io/badge/Medium-05122A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
 
