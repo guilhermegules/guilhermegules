@@ -32,48 +32,42 @@
 - Web development
 - Software architecture
 
-## 🛠 &nbsp;Tech Stack
+<h3 align="center">🛠 &nbsp;Tech Stack</h3>
 
-### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" />
+  <img src="https://img.shields.io/badge/RxJs-05122A?style=for-the-badge&logo=reactivex&logoColor=B7178C" alt="RxJs" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
+  <img src="https://img.shields.io/badge/Testing%20Library-05122A?style=for-the-badge&logo=testinglibrary&logoColor=E33332" alt="Testing Library" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" alt="Git" />
+</p>
 
-### Framerworks / Libraries / Environments
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=2CA5E0" alt="Docker" />
+  <img src="https://img.shields.io/badge/Webpack-05122A?style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack" />
+</p>
 
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=red)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+<h3 align="center">Writing</h3>
 
-### IDE's / Code editors
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-Intellij-05122A?style=for-the-badge&logo=intellij-idea)&nbsp;
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=2CA5E0)&nbsp;
-![Webpack](https://img.shields.io/badge/Webpack-05122A?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
-
-### Writing
-
-<a href="https://dev.to/guilhermegules" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-05122A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community">
-</a>
-&nbsp;
-<a href="https://medium.com/@guilhermegules" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-05122A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a>
+<p align="center">
+  <a href="https://dev.to/guilhermegules" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-05122A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community">
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@guilhermegules" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-05122A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
 
 ## :milky_way: &nbsp;Github stats 
  
