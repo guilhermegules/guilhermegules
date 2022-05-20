@@ -37,7 +37,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" />
   <img src="https://img.shields.io/badge/RxJs-05122A?style=for-the-badge&logo=reactivex&logoColor=B7178C" alt="RxJs" />
@@ -47,8 +46,6 @@
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
   <img src="https://img.shields.io/badge/Testing%20Library-05122A?style=for-the-badge&logo=testinglibrary&logoColor=E33332" alt="Testing Library" />
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" alt="Git" />
 </p>
 
