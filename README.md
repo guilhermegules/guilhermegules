@@ -1,7 +1,10 @@
-# Hi there I'm Guilherme Gules Moreira 👋
+<h1>
+  Hello World
+  <img width="50" height="50" src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" alt="Spinning world" />
+</h1>
 
 <p>
-  Front-end developer at <a href="https://ilegra.com/">ilegra</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  I'm a front-end developer at <a href="https://ilegra.com/">ilegra</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
 ## :busts_in_silhouette: &nbsp;Let's Connect:
