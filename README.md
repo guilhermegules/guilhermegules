@@ -3,9 +3,13 @@
   <img width="50" height="50" src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" alt="Spinning world" />
 </h1>
 
-<p>
-  I'm a front-end developer at <a href="https://ilegra.com/">ilegra</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
+
+<div align="center">
+  <p>
+    I'm a front-end developer at <a href="https://ilegra.com/">ilegra</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </p>
+  <img src="./octocat.png" width="250px" />
+</div>
 
 ## :busts_in_silhouette: &nbsp;Let's Connect:
 
