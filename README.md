@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" />
   <img src="https://img.shields.io/badge/RxJs-05122A?style=for-the-badge&logo=reactivex&logoColor=B7178C" alt="RxJs" />
+   <img src="https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=E535AB" alt="GraphQL" />
 </p>
 
 <p align="center">
