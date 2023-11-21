@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    I'm a front-end developer at <a href="https://ilegra.com/">ilegra</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    I'm a front-end developer &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </p>
   <img src="./octocat.png" width="250px" />
 </div>
