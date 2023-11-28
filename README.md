@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/guilhermegules/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=05122A" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/guilhermethegules/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=05122A" alt="Instagram">
-  </a>
 </div>
 
 ## :artificial_satellite: &nbsp;About me:
